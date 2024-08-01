@@ -1,0 +1,29 @@
+baseURL: https://fips-validatedprinting.com
+languageCode: en-us
+title: FIPS-Validated Printing
+theme: hextra
+
+menu:
+  main:
+    - name: About
+      pageRef: /about
+      weight: 1
+    - name: Search
+      weight: 2
+      params:
+        type: search
+    - name: GitHub
+      weight: 3
+      url: "https://github.com/LiatrisStar/FIPS-ValidatedPrinters"
+      params:
+        icon: github
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: images/FIPSV_icon_black.png
+      dark: images/FIPSV_icon_white.png
+      width: 50
+      height: 50
