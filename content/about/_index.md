@@ -5,10 +5,10 @@ draft = true
 weight = 2
 +++
 ## Why?
-This page is born out of the frustration of trying to find FIPS-validated printers for CMMC compliance.
+This page is born out of the frustration of trying to find FIPS-validated printers for CMMC compliance. And also so my GF gives me an apple juice.
 
 ## Who are you?
-Hi! I'm Lia. A cybersecurity assessor in training.
+Hi! I'm Lia. I work as a cybersecurity assessor and M365 systems administrator. I hold Security+ CE and CCP certifications.
 
 ## How are you determining this?
 To learn more about the methods used, please see this page: [Methods](methods)
