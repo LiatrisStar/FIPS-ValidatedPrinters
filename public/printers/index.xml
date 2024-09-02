@@ -1,0 +1,19 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FIPS-Validated Printing Awesomeness – Awesome FIPS-Validated Printers</title>
+    <link>http://localhost:1313/printers/</link>
+    <description>Recent content in Awesome FIPS-Validated Printers on FIPS-Validated Printing Awesomeness</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Aug 2024 19:31:44 -0400</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/printers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>

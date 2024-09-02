@@ -1,23 +1,28 @@
 baseURL: https://fips-validatedprinting.com
 languageCode: en-us
-title: FIPS-Validated Printing
+title: FIPS-Validated Printing Awesomeness
 theme: hextra
 
 menu:
   main:
+    - name: Awesome Printers
+      pageRef: /printers
+      weight: 1
+    - name: Resources
+      pageRef: /resources
+      weight: 2
     - name: About
       pageRef: /about
-      weight: 1
+      weight: 3
     - name: Search
-      weight: 2
+      weight: 9
       params:
         type: search
     - name: GitHub
-      weight: 3
+      weight: 10
       url: "https://github.com/LiatrisStar/FIPS-ValidatedPrinters"
       params:
         icon: github
-
 params:
   navbar:
     displayTitle: true
@@ -27,3 +32,20 @@ params:
       dark: images/FIPSV_icon_white.png
       width: 50
       height: 50
+  page:
+    width: full
+  footer:
+    enable: true
+    displayCopyright: true
+    displayPoweredBy: false
+    width: normal
+search:
+  enable: true
+  type: flexsearch
+
+  flexsearch:
+    # index page by: content | summary | heading | title
+    index: content
+    # full | forward | reverse | strict
+    # https://github.com/nextapps-de/flexsearch/#tokenizer-prefix-search
+    tokenize: forward
