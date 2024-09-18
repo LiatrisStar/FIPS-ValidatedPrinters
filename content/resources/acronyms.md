@@ -9,6 +9,7 @@ draft: false
 | NIAP | National Information Assurance Partnership |
 | MFP | Multi-Funtion Printer |
 | IPP | Internet Printing Protocol |
+| IPPS | Internet Printing Protocol over HTTPS/TLS |
 | FIPS | Federal Information Processing Standards |
 | CMVP | Cryptographic Module Validation Program |
 | CAVP | Cryptographic Algorithm Validation Program |

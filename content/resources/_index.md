@@ -5,3 +5,8 @@ draft: false
 cascade:
     type: docs
 ---
+## [Acronyms](acronyms)
+A collection of acronyms used on this website.
+
+## [NIST SP 800-171 Revisions](nist-revisions)
+A discussion on the changes to NIST SP 800-171 as it is relevant to FIPS-Validated printing

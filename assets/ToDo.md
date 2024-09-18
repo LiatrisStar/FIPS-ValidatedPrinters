@@ -5,3 +5,7 @@
     - Awesome - Everything checks out, the whole chain is there
     - Okay - Most of it checks out, but it's missing a link or two
     - Noted - Claims were made, we couldn't verify them
+* Shortcodes
+    - Highight
+    - Columns
+    - Centering

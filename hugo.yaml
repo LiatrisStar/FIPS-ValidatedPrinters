@@ -49,3 +49,5 @@ search:
     # full | forward | reverse | strict
     # https://github.com/nextapps-de/flexsearch/#tokenizer-prefix-search
     tokenize: forward
+security:
+  enableInlineShortcodes: true
